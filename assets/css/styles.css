@@ -135,6 +135,10 @@ h2 {
     float:left;
 }
 
+.right-about-card > h2 {
+    text-align: right;
+}
+
 hr{
     border-top: 1px solid #777777;
     width:100%;
