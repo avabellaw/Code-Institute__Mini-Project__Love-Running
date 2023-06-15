@@ -117,7 +117,6 @@ h2 {
 #center-about {
     width:33%;
     margin:0 auto;
-    background-color: green;
 }
 
 .about-card {
@@ -146,9 +145,13 @@ hr{
 }
 
 #about-image-container {
+    width:300px;
+    height:300px;
     border: 1px solid #777777;
     border-radius: 50%;
-    padding:10px;
+    padding:30px;
+    overflow: hidden;
+    margin:0 auto;
 }
 
 #welcome {
