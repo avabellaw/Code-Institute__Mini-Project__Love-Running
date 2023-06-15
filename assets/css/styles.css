@@ -134,3 +134,9 @@ hr{
     width:100%;
     margin: 5px 0;
 }
+
+#about-image-container {
+    border: 1px solid #777777;
+    border-radius: 50%;
+    padding:10px;
+}
