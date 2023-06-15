@@ -128,3 +128,9 @@ h2 {
     clear:both;
     margin-bottom:50px;
 }
+
+hr{
+    border-top: 1px solid #777777;
+    width:100%;
+    margin: 5px 0;
+}
