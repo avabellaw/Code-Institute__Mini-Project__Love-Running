@@ -135,7 +135,7 @@ h2 {
     float:left;
 }
 
-.right-about-card > h2 {
+.right-about-card {
     text-align: right;
 }
 
