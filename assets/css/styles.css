@@ -252,4 +252,32 @@ footer {
         margin-bottom: 20px;
         line-height:25px;
     }
+
+    #overlay-text {
+        left:0px;
+    }
+
+    #club-ethos {
+        width:90%;
+        height:1200px;
+        margin:0 auto;
+    }
+
+    .left-about-card, .right-about-card {
+      width:inherit;
+    }
+
+    .left-about-card h2, .right-about-card h2 {
+        width:100%;
+        text-align: center;
+    }
+
+    .left-about-card p, .right-about-card p {
+        text-align: center;
+        padding:0 20px;
+    }
+
+    #about-image-container {
+        margin-left:-50%;
+    }
 }
