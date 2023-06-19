@@ -19,6 +19,7 @@ h2 {
 #logo {
     float:left;
     font-size:280%;
+    margin-left:30px;
 }
 
 #menu {
@@ -240,5 +241,15 @@ footer {
 
     hr {
         display:none;
+    }
+}
+
+@media screen and (max-width:943px){
+    #menu {
+        clear:left;
+        float:left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height:25px;
     }
 }
