@@ -242,6 +242,13 @@ footer {
     hr {
         display:none;
     }
+
+    #times > div {
+        width:100%;
+        clear:both;
+        height:150px;
+        border:1px solid ;
+    }
 }
 
 @media screen and (max-width:943px){
@@ -280,4 +287,15 @@ footer {
     #about-image-container {
         margin-left:-50%;
     }
+
+    #photos {
+        column-count: 3;
+    }
 }
+
+@media screen and (max-width:800px){
+    #photos {
+        column-count: 2;
+    }
+}
+
